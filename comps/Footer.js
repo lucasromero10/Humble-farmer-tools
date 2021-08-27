@@ -1,10 +1,10 @@
 const Footer = () => {
     return ( 
-        <div>
+        <footer>
             <p>
                 Copyright 2021 Humble Farmer
             </p>
-        </div>
+        </footer>
      );
 }
  

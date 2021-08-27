@@ -1,11 +1,11 @@
-const auditedFarms = () => {
+const terraFarms = () => {
     return ( 
         <div>
             <h1>
-            Audited Farms
+            Terra Ecosystem
             </h1>
         </div>
      );
 }
  
-export default auditedFarms ;
+export default terraFarms ;

@@ -1,11 +1,11 @@
-const Resources = () => {
+const fantomFarms = () => {
     return ( 
         <div>
             <h1>
-             Resources
+            Fantom Ecosystem
             </h1>
         </div>
      );
 }
  
-export default Resources ;
+export default fantomFarms ;
